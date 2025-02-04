@@ -43,4 +43,3 @@ The Tableau dashboard was developed to meet the following stakeholder requiremen
 ### Export Options
 
 *   **PDF Export:** A dedicated button allows stakeholders to download the dashboard in PDF format.  The PDF captures all visible charts, KPIs, and filters.
-*   **Watermark:** Exported PDFs include a light watermark with the company's branding.
